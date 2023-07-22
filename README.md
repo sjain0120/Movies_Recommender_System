@@ -21,6 +21,6 @@ It is an intelligent and user-friendly movie recommender system implemented in P
 
 # Conclusion:
 
-Whether you're in the mood for action, romance, comedy, or any other genre, MovieMate will guide you to your next cinematic adventure. Sit back, relax, and let MovieMate be your ultimate movie companion!
+Whether you're in the mood for action, romance, comedy, or any other genre, It will guide you to your next cinematic adventure. Sit back, relax, and let it be your ultimate movie companion!
 
 **Note:** Movies Recommender System is an educational project, and the movie data used is for demonstrative purposes only. The system does not have commercial intentions and does not store any sensitive user data.
